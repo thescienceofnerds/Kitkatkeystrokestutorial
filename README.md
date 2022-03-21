@@ -1,4 +1,4 @@
-# Kitkat-keystrokes-tutorial-
+# Kitkatkeystrokestutorial
 A tutorial for a friend in voidstar lab :)
 
 # If you are KitKat
